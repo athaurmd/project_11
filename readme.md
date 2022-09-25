@@ -13,7 +13,7 @@ In this project i have written a whole lot of html and css and designed a comple
 
 Live link of the project
 
-[Netlify-link](https://web-services-startup-homepage.netlify.app/) 
+[Netlify-link](https://hosting-services-landing-webpage.netlify.app/)
 
 
 
